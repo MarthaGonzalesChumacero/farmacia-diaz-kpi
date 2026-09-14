@@ -66,4 +66,4 @@ Permite analizar visualmente el comportamiento de las ventas y apoyar la toma de
 ## Autora
 
 **Martha Gonzales Chumacero**  
-Estudiante de Sistemas Informáticos
+
